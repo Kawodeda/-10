@@ -1,0 +1,4 @@
+Number (in base 10) = 1572
+p = 7
+
+Number (in base 7): 4404
